@@ -1,0 +1,91 @@
+
+
+h1{
+  color:rgb(230, 179, 104)
+}
+p{
+  color:rgb(228, 188, 128);
+  font-family: fantasy;
+  font-size: 20px;px;
+line-height: 0.80cm;
+text-shadow:2px 2px 2px rgb(255, 255, 255);
+}
+
+
+body{
+  background:rgb(253, 235, 212)
+}
+
+ li{
+   color:burlywood
+ }
+ img {
+    border-radius:30%;
+      border: 6px solid rgb(165, 91, 42);
+      border-radius:8px;
+      padding: 1px;
+      width: 150px;
+      border-style: double;
+    }
+    
+
+h1#nav {
+  font-family:fantasy;
+ font-size:  50px;px;
+  text-shadow:4px 4px 4px rgb(88, 34, 9);
+}
+h1{
+  font-family:fantasy;
+ font-size: 35px;px;
+  text-shadow:4px 4px 4px rgb(88, 34, 9);
+}
+
+
+
+
+ul#nav {
+  list-style-type:none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  border: 1px solid #e7e7e7;
+  background-color:rgb(46, 22, 6);
+}
+
+ul#nav li {
+  float: left;
+}
+
+ul#nav li a {
+  display: block;
+  color:rgb(255, 252, 248);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul#nav li a:hover:not(.active) {
+  background-color:sienna;
+}
+
+ul#nav li a.active {
+  color:burlywood;
+  background-color: #fffefb;
+}
+
+p#nav{
+  font-size:10px;px;
+}
+
+
+
+
+
+
+
+h2{
+  font-family:fantasy;
+ font-size: 29px;px;
+  text-shadow:4px 4px 4px rgb(68, 23, 3);
+color:rgb(230, 179, 104)
+}
